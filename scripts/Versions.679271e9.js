@@ -1,5 +1,5 @@
 import { S as oe, i as ne, s as ie, h as re, a as k, e as c, c as o, u as pe, n as C, d as n, q as fe, t as h, f as B, g as a, r as ae, k as ue, l as te, m as me, A, j as ce } from "./index.4deac2e0.js";
-import { d as _e, b as de, a as be, k as he, l as ve } from "./Api.4fd96799.js";
+import { d as _e, b as de, a as be, k as he, l as ve } from "./Api.280716b7.js";
 function se(l, t, p) {
   const f = l.slice();
   return f[9] = t[p], f;
@@ -184,7 +184,7 @@ function ye(l) {
     s
   ), {
     c() {
-      s.block.c(), t = k(), p = c("hr"), f = k(), _ = c("h2"), _.textContent = "Loom", d = k(), v = c("p"), v.innerHTML = "The recommended loom version is <strong>1.6-SNAPSHOT</strong>. This is usually defined near the top of your build.gradle file.";
+      s.block.c(), t = k(), p = c("hr"), f = k(), _ = c("h2"), _.textContent = "Loom", d = k(), v = c("p"), v.innerHTML = "The recommended loom version is <strong>1.10-SNAPSHOT</strong>. This is usually defined near the top of your build.gradle file.";
     },
     m(i, m) {
       s.block.m(i, s.anchor = m), s.mount = () => t.parentNode, s.anchor = t, o(i, t, m), o(i, p, m), o(i, f, m), o(i, _, m), o(i, d, m), o(i, v, m);
